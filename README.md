@@ -1,28 +1,53 @@
-## Hi, I'm Gokul Raj 👋
+## Hi, I’m Gokul Raj 👋
 
-Data Engineer and Software Engineer with hands-on experience in building cloud-native
-ETL pipelines and backend applications. I have worked on designing and developing
-scalable data workflows on AWS using Python, SQL, and PySpark, along with building
-REST-based backend services using Django.
+I’m a **Software Engineer with a strong focus on Data Engineering**, experienced in building
+backend services and data-intensive pipelines on AWS.
 
-I have a strong foundation in software engineering, debugging, and data-driven
-problem solving. I am comfortable working across the full development lifecycle —
-from data ingestion, transformation, and validation to analytics-ready outputs
-and backend system integration.
+I work primarily with **Python and SQL**, and I have hands-on experience designing,
+developing, and optimizing **ETL pipelines** using **PySpark, AWS Glue, Athena, and
+Step Functions**. I also build **RESTful backend services using Django**, with a focus on
+clean architecture, maintainable code, and real-world problem solving.
 
-Actively seeking entry-level opportunities as a **Data Engineer**, **Software Engineer**,
-or **Data Analyst**, where I can contribute to data-driven and scalable systems.
+My work spans the full data lifecycle — from **data ingestion and transformation**
+to **analytics-ready datasets and backend system integration**.
 
-### Core Skills
+I’m currently seeking **entry-level opportunities** as a:
+- **Data Engineer**
+- **Software Engineer (Backend / Data-focused)**
+- **Data Analyst / Analytics Engineer**
 
-**Programming & Backend**  
-Python | SQL | Java | REST APIs | Django | OOP | Debugging | Git | Linux
+---
 
-**Data Engineering & Analytics**  
-PySpark | Spark ETL | Data Transformation | Parquet | Partitioning  
-Data Modeling | Data Validation | SQL Optimization | Analytical Queries
+### 🛠 Core Skills
 
-**Cloud & Tools**  
-AWS (S3, Glue, Athena, IAM, CloudWatch)  
-Pipeline Orchestration (AWS Step Functions)  
-VS Code | Jupyter Notebook | Postman | GitHub
+#### Programming & Backend
+- Python, SQL  
+- Django, REST API Development  
+- Object-Oriented Programming  
+- Git, Linux  
+
+#### Data Engineering & Analytics
+- PySpark, ETL Pipelines  
+- Data Transformation, Parquet, Partitioning  
+- Data Modeling, Data Validation  
+- SQL Optimization, Analytical Queries  
+
+#### Cloud & Tools
+- AWS: S3, Glue, Athena, IAM, CloudWatch  
+- Workflow Orchestration: AWS Step Functions  
+- VS Code, Jupyter Notebook, Postman, GitHub  
+
+---
+
+### 📌 What I focus on
+- Writing **production-ready, maintainable code**
+- Building **scalable data pipelines**
+- Optimizing **query performance and storage efficiency**
+- Developing **API-driven backend systems** that integrate cleanly with data workflows
+
+---
+
+### 📫 Let’s connect
+- **GitHub:** https://github.com/gokulraj-sha  
+- **LinkedIn:** https://www.linkedin.com/in/gokul-raj-s  
+- **Email:** gokulraj1.sha@gmail.com
